@@ -1,6 +1,6 @@
 ## CSGO Onion project
 
-Made this ~1 year ago, the sigs might be outdated + I remember I was using one offset which would need to be updated as well.
+Made this couple years ago, the sigs might be outdated + I remember I was using one offset which would need to be updated as well.
 
 The code formatting (splitting into files, etc) is shit, but the code should be workable.
 
